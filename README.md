@@ -11,3 +11,5 @@ Day2 - Holi
   - Read a blog on design + AI by Google
   - Need to follow Siraj Ravals Study Plan
   - Great Job!
+  
+Day3 - Completed Machine Learning Coursera Week 9 Videos + Quiz
