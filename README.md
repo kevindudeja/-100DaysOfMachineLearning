@@ -14,3 +14,4 @@ Day2 - Holi
   
 Day3 - Completed Machine Learning Coursera Week 9 Videos + Quiz
   - Watch Video 6/11 of Python for Data Analysis - Pandas (Section 6) of Udemy Course
+  - Read Paper[1]: "Normalization: a preprocessing stage"
