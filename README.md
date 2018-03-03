@@ -7,7 +7,7 @@ Day1 - Made this repository! Made a Commitment!
   - Great Job!
   
 Day2 - Holi
-  - Started late. Completed Machine Learning Coursera Week 10
+  - Started late. Completed Machine Learning Coursera Week 10 + Quiz
   - Read a blog on design + AI by Google
   - Need to follow Siraj Ravals Study Plan
   - Great Job!
