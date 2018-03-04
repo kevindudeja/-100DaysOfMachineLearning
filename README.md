@@ -22,5 +22,10 @@ Day3
 
 Day4
   - Completed Pandas (Section 6)
+  - ***What is Pandas library?*** Pandas is an open source library built on top of Numpy and allows for fast analysis and data cleaning and preparation.
+  - In the Pandas Section of the Udemy Course, we went through what are Series, DataFrames, dropna() and fillna() for missing data, SQL operations like groupBy, Merging, some operations in Pandas and data input and output. 
   - Went through GSoC Organisations
+  - Selected organisations:
+    - RedHen Labs
+    - CLiPS
   - Great Job!
