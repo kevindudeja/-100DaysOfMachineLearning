@@ -18,7 +18,9 @@ Day3
   - Completed Machine Learning Coursera Week 9 Videos + Quiz
   - Watched Video 6/11 of Python for Data Analysis - Pandas (Section 6) of Udemy Course
   - Read Paper[1]: "Normalization: a preprocessing stage"
+  - Great Job!
 
 Day4
   - Completed Pandas (Section 6)
   - Went through GSoC Organisations
+  - Great Job!
