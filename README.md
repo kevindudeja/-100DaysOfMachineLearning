@@ -32,3 +32,7 @@ Day4
   
 Day5
   - Had a discussion cum chat with ML teacher on mathew correlation constant, extreme learning, what is linear regression and its statistical assumptions, precision and recall in terms of specificity and some other term.
+  
+Day6
+  - Feeling like a failure
+  - Went through videos for MLP, Linear and Non-Linear SVM, Hierarchical Agglomerative Clustering
