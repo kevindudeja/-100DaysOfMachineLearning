@@ -34,5 +34,12 @@ Day5
   - Had a discussion cum chat with ML teacher on mathew correlation constant, extreme learning, what is linear regression and its statistical assumptions, precision and recall in terms of specificity and some other term.
   
 Day6
-  - Feeling like a failure
+  - Perfectionism got me depressed
   - Went through videos for MLP, Linear and Non-Linear SVM, Hierarchical Agglomerative Clustering
+  
+Day7
+  - Got an intro to CNNs and Tensorflow
+  - Continued with Hackerearth Competition
+    - Balanced the dataframe with equal number of +ve -ve class examples
+    - Submission Accuracy: 0.66914
+  - 
