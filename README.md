@@ -42,4 +42,9 @@ Day7
   - Continued with Hackerearth Competition
     - Balanced the dataframe with equal number of +ve -ve class examples
     - Submission Accuracy: 0.66914
-  - 
+  - TensorFlow has a learning curve
+  - There's a lot going behing the classifier.fit(X,y) function
+
+Day8
+  - Reading Summer Research Project paper
+  - Planned out work for next week and march for ML
