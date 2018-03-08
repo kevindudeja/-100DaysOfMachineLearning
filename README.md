@@ -46,5 +46,5 @@ Day7
   - There's a lot going behing the classifier.fit(X,y) function
 
 Day8
-  - Reading Summer Research Project paper
+  - Reading Summer Research Project paper - Read 1 / 3
   - Planned out work for next week and march for ML
