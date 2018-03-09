@@ -48,3 +48,6 @@ Day7
 Day8
   - Reading Summer Research Project paper - Read 1 / 3
   - Planned out work for next week and march for ML
+
+Day9
+  - Completed Linear Algrebra MIT Lectures - 5/39
