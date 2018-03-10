@@ -52,3 +52,6 @@ Day8
 Day9
   - Completed Linear Algrebra MIT Lectures - 5/39
   - Completed Week 11 Machine Learning Coursera
+
+Day10
+  - Completed Linear Algebra MIT Lectures - 10/39
