@@ -59,3 +59,5 @@ Day10
 Day11
   - Working on GSOC Proposal for Space: Virginia Tech
   - Started working on demo challenge task #1: Analyzing the Disturbance storm time (Dst) index
+
+What day is it?
