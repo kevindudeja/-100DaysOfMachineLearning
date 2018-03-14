@@ -61,3 +61,10 @@ Day11
   - Started working on demo challenge task #1: Analyzing the Disturbance storm time (Dst) index
 
 What day is it?
+
+Year2098
+  - I am an AI now
+
+Day14
+  - Need to finish week 9 programming assignment
+  - ReRead emotion recognition paper
