@@ -68,3 +68,8 @@ Year2098
 Day14
   - Need to finish week 9 programming assignment
   - ReRead emotion recognition paper
+  
+***FAST FORWARD TO DAY 48***
+
+Day48
+  - Commit
