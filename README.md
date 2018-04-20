@@ -76,3 +76,7 @@ Day48
   
 Day49
   - Commit
+
+Day50
+  - Commit 6:43pm
+  - The Essence of Linear Algrebra 10-part series - 3 / 10
