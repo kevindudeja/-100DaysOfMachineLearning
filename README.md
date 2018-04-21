@@ -80,3 +80,8 @@ Day49
 Day50
   - Commit 6:43pm
   - The Essence of Linear Algrebra 10-part series - 3 / 10
+
+Day51
+  - Commit 9:38pm
+  - The Essence of Linear Algrebra 10-part series - 4 / 10
+  - Documentary on Maths
