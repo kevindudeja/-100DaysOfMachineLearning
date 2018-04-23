@@ -85,3 +85,14 @@ Day51
   - Commit 9:38pm
   - The Essence of Linear Algrebra 10-part series - 4 / 10
   - Documentary on Maths
+  
+Day52
+  - Commit 1:19am of day 54
+  - The Essence of Linear Algrebra 10-part series - 5 / 10
+
+Day53
+  - Commit 1:19am of day54
+  - 24th april
+  - Severe back pain
+  - Downloaded brilliant application ios for linear algebra
+  - need to put in more time
